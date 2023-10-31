@@ -1,0 +1,32 @@
+h1{
+    color: red ;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px;
+}
+.logo{
+    width: 100px;
+    /* height: 100px; */
+}
+
+.nav-items > ul {
+    display: flex;
+    list-style-type: none;
+
+}
+.nav-items > ul > li {
+   padding: 5px;
+   margin: 10px;
+
+}
+.search-bar{
+    padding: 10px;
+}
+.res-card{
+    border: solid 1px;
+    width: 200;
+    height: 300px;
+}
