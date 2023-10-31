@@ -16,7 +16,7 @@ import ReactDom from "react-dom";
  *              name
  *              star rating
  *              time
- *      
+ *
  * FOOTER
  *      copyright
  *      link
@@ -47,34 +47,55 @@ const Header = () => {
   );
 };
 
-const RestrauntCard = () =>{
-    return(
-        <div className="res-card">
-            <h3>Friend Dhaba</h3>
+const RestrauntCard = () => {
+  return (
+    <div className="res-card">
+      <img
+        className="kfc-logo"
+        src="https://banner2.cleanpng.com/20180323/byq/kisspng-colonel-sanders-kfc-fried-chicken-logo-restaurant-fried-chicken-5ab4d4671d4b30.22577779152180029512.jpg"
+        alt="kfc logo"
+      />
+      <h3>Friend Dhaba</h3>
+      <h4>Strips, Peri-Peri, Bucket</h4>
+      <h4>4.4 rating</h4>
+      <h4>45 min</h4>
+    </div>
+  );
+};
 
-        </div>
-    )
-}
-
-const Body = () =>{
-    return(
-        <div className="body">
-            <div className="search-bar">
-                Search
-            </div>
-            <div className="res-container">  </div>
-            <div className="res-card">
-                <RestrauntCard/>
-            </div>
-        </div>
-    )
-}
+const Body = () => {
+  return (
+    <div className="body">
+      <div className="search-bar">Search</div>
+      <div className="res-container">
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+        <RestrauntCard />
+      </div>
+    </div>
+  );
+};
 
 const AppLayout = () => {
   return (
     <div className="app">
       <Header />
-      <Body/>    
+      <Body />
     </div>
   );
 };

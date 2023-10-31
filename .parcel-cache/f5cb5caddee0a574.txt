@@ -1,4 +1,4 @@
-5953
+5955
 76D:\projects\Namaste react\node_modules\css-tree\cjs\lexer\generic-urange.cjs133424444577164935 0
 60D:\projects\Namaste react\node_modules\@parcel\markdown-ansi133424444563823014 1
 45D:\projects\Namaste react\node_modules\base-x133424444562679753 1
@@ -26,8 +26,8 @@
 45D:\projects\Namaste react\node_modules\@lezer133424444540525962 1
 36D:\projects\Namaste react\.gitignore133424448965437073 0
 67D:\projects\Namaste react\node_modules\postcss-value-parser\LICENSE133424444559360469 0
-32D:\projects\Namaste react\app.js133424739710927066 0
-48D:\projects\Namaste react\dist\index.5baa4167.js133424739713782599 0
+32D:\projects\Namaste react\app.js133432231300718891 0
+48D:\projects\Namaste react\dist\index.5baa4167.js133432231306630278 0
 75D:\projects\Namaste react\node_modules\@parcel\reporter-tracer\package.json133424444563109816 0
 59D:\projects\Namaste react\node_modules\msgpackr-extract\src133424444560429849 1
 45D:\projects\Namaste react\node_modules\braces133424444564186145 1
@@ -35,11 +35,20 @@
 56D:\projects\Namaste react\node_modules\svgo\lib\style.js133424444578534910 0
 70D:\projects\Namaste react\node_modules\lmdb\dependencies\lz4\lib\lz4.c133424444575062788 0
 75D:\projects\Namaste react\node_modules\csso\lib\replace\atrule\keyframes.js133424444581843373 0
-30D:\projects\Namaste react\dist133424739713872671 1
+30D:\projects\Namaste react\dist133432231306722339 1
+81D:\projects\Namaste react\node_modules\.bin\node-gyp-build-optional-packages-test133424444621953914 0
+49D:\projects\Namaste react\node_modules\color-name133424444562242088 1
+72D:\projects\Namaste react\node_modules\type-fest\source\stringified.d.ts133424444575272772 0
+60D:\projects\Namaste react\node_modules\svgo\lib\svgo-node.js133424444578634918 0
+88D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-in-out-of-range.js133424444586552850 0
+102D:\projects\Namaste react\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.json133424444572692766 0
+79D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-shapes.js133424444587712888 0
+109D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133424444578244928 0
+29D:\projects\Namaste react\img133431343043851163 1
 69D:\projects\Namaste react\node_modules\source-map\lib\mapping-list.js133424444568174204 0
 59D:\projects\Namaste react\node_modules\postcss-value-parser133424444567495524 1
 70D:\projects\Namaste react\node_modules\source-map-js\lib\base64-vlq.js133424444561832828 0
-36D:\projects\Namaste react\index.html133424737614063559 0
+36D:\projects\Namaste react\index.html133425686658189811 0
 70D:\projects\Namaste react\node_modules\caniuse-lite\data\regions\MG.js133424444617525782 0
 88D:\projects\Namaste react\node_modules\css-select\node_modules\entities\lib\index.js.map133424444577335065 0
 81D:\projects\Namaste react\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133424444587712888 0
@@ -56,12 +65,12 @@
 81D:\projects\Namaste react\node_modules\@babel\helper-validator-identifier\LICENSE133424444559300458 0
 57D:\projects\Namaste react\node_modules\.package-lock.json133424739295270477 0
 75D:\projects\Namaste react\node_modules\css-tree\cjs\syntax\atrule\media.cjs133424444581518314 0
-35D:\projects\Namaste react\style.css133424732849663465 0
-94D:\projects\Namaste react\node_modules\scheduler\cjs\scheduler-unstable_mock.production.min.js133424739044141970 0
 77D:\projects\Namaste react\node_modules\type-fest\source\iterable-element.d.ts133424444571502659 0
 43D:\projects\Namaste react\package-lock.json133424739294990374 0
 50D:\projects\Namaste react\node_modules\htmlparser2133424444569702841 1
 92D:\projects\Namaste react\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133424444618868042 0
+35D:\projects\Namaste react\style.css133432230720635495 0
+94D:\projects\Namaste react\node_modules\scheduler\cjs\scheduler-unstable_mock.production.min.js133424739044141970 0
 46D:\projects\Namaste react\node_modules\is-json133424444564576041 1
 69D:\projects\Namaste react\node_modules\nth-check\lib\esm\compile.d.ts133424444572712787 0
 47D:\projects\Namaste react\node_modules\csso\lib133424444583243398 1
@@ -95,7 +104,7 @@
 90D:\projects\Namaste react\node_modules\caniuse-lite\data\features\native-filesystem-api.js133424444617868793 0
 85D:\projects\Namaste react\node_modules\csso\node_modules\css-tree\lib\syntax\index.js133424444586842892 0
 59D:\projects\Namaste react\node_modules\process\package.json133424739294256479 0
-44D:\projects\Namaste react\node_modules\@lmdb133424739045851471 1
+44D:\projects\Namaste react\node_modules\@lmdb133424739294400279 1
 66D:\projects\Namaste react\node_modules\semver\ranges\intersects.js133424444572112796 0
 50D:\projects\Namaste react\node_modules\safe-buffer133424444563472986 1
 82D:\projects\Namaste react\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133424444573282790 0
@@ -121,7 +130,7 @@
 53D:\projects\Namaste react\node_modules\domelementtype133424444567715924 1
 48D:\projects\Namaste react\node_modules\commander133424444568104280 1
 78D:\projects\Namaste react\node_modules\htmlparser2\lib\WritableStream.d.ts.map133424444569532811 0
-56D:\projects\Namaste react\node_modules\@msgpackr-extract133424739293884872 1
+56D:\projects\Namaste react\node_modules\@msgpackr-extract133424739294400279 1
 80D:\projects\Namaste react\node_modules\react-dom\umd\react-dom.production.min.js133424739045471443 0
 61D:\projects\Namaste react\node_modules\msgpackr\node-index.js133424444571006204 0
 70D:\projects\Namaste react\node_modules\caniuse-lite\data\regions\KZ.js133424444616988314 0
@@ -144,7 +153,7 @@
 67D:\projects\Namaste react\node_modules\posthtml-parser\package.json133424444563603038 0
 62D:\projects\Namaste react\node_modules\@parcel\transformer-svg133424444568224197 1
 68D:\projects\Namaste react\node_modules\@parcel\profiler\lib\Trace.js133424444564646078 0
-43D:\projects\Namaste react\node_modules\@swc133424739045841505 1
+43D:\projects\Namaste react\node_modules\@swc133424739294400279 1
 56D:\projects\Namaste react\node_modules\csso\lib\index.js133424444581448190 0
 70D:\projects\Namaste react\node_modules\caniuse-lite\data\regions\CD.js133424444582873308 0
 101D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\index.js133424444564316158 0
@@ -208,11 +217,6 @@
 44D:\projects\Namaste react\node_modules\chalk133424444565949845 1
 90D:\projects\Namaste react\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133424444587262876 1
 52D:\projects\Namaste react\node_modules\parent-module133424444562242088 1
-81D:\projects\Namaste react\node_modules\.bin\node-gyp-build-optional-packages-test133424444621953914 0
-49D:\projects\Namaste react\node_modules\color-name133424444562242088 1
-72D:\projects\Namaste react\node_modules\type-fest\source\stringified.d.ts133424444575272772 0
-60D:\projects\Namaste react\node_modules\svgo\lib\svgo-node.js133424444578634918 0
-88D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-in-out-of-range.js133424444586552850 0
 96D:\projects\Namaste react\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Combinator.cjs133424444571046185 0
 50D:\projects\Namaste react\node_modules\cosmiconfig133424444572652805 1
 60D:\projects\Namaste react\node_modules\csso\dist\version.cjs133424444576064861 0
@@ -1146,7 +1150,6 @@
 64D:\projects\Namaste react\node_modules\semver\functions\valid.js133424444576384242 0
 70D:\projects\Namaste react\node_modules\css-tree\lib\syntax\node\CDO.js133424444585232892 0
 85D:\projects\Namaste react\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133424444576745021 0
-60D:\projects\Namaste react\node_modules\css-tree\dist\data.js133424444586412917 0
 85D:\projects\Namaste react\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.js133424444571442615 0
 77D:\projects\Namaste react\node_modules\json-parse-even-better-errors\index.js133424444559290451 0
 74D:\projects\Namaste react\node_modules\svgo\plugins\removeScriptElement.js133424444577134944 0
@@ -3331,6 +3334,7 @@
 113D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\SyntaxError.js133424444584332872 0
 71D:\projects\Namaste react\node_modules\css-tree\lib\convertor\create.js133424444585442863 0
 61D:\projects\Namaste react\node_modules\css-tree\dist\data.cjs133424444574752795 0
+60D:\projects\Namaste react\node_modules\css-tree\dist\data.js133424444586412917 0
 79D:\projects\Namaste react\node_modules\@swc\helpers\_\_class_private_field_init133424444586992851 1
 63D:\projects\Namaste react\node_modules\css-tree\data\patch.json133424444589062720 0
 61D:\projects\Namaste react\node_modules\css-tree\cjs\convertor133424444578174995 1
@@ -4123,7 +4127,7 @@
 78D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-masks.js133424444586782916 0
 95D:\projects\Namaste react\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure133424444576984951 1
 87D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-matches-pseudo.js133424444586802898 0
-49D:\projects\Namaste react\dist\index.3a01df49.css133424739308809310 0
+49D:\projects\Namaste react\dist\index.3a01df49.css133432231305682058 0
 58D:\projects\Namaste react\node_modules\braces\lib\parse.js133424444568204240 0
 85D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-mediaqueries.js133424444586942842 0
 85D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-motion-paths.js133424444586992851 0
@@ -4152,8 +4156,6 @@
 72D:\projects\Namaste react\node_modules\@parcel\transformer-image\LICENSE133424444560009798 0
 88D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133424444587592886 0
 88D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133424444587622904 0
-102D:\projects\Namaste react\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.json133424444572692766 0
-79D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-shapes.js133424444587712888 0
 83D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-snappoints.js133424444587722850 0
 72D:\projects\Namaste react\node_modules\@swc\helpers\esm\_ts_generator.js133424444585642904 0
 80D:\projects\Namaste react\node_modules\caniuse-lite\data\features\css-subgrid.js133424444587762855 0
@@ -4779,7 +4781,6 @@
 73D:\projects\Namaste react\node_modules\@parcel\core\src\resolveOptions.js133424444585232892 0
 76D:\projects\Namaste react\node_modules\@swc\core-win32-x64-msvc\package.json133424444560179898 0
 73D:\projects\Namaste react\node_modules\@swc\core-win32-x64-msvc\README.md133424444561280138 0
-82D:\projects\Namaste react\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133424444574612782 0
 59D:\projects\Namaste react\node_modules\@swc\core\binding.js133424444561822785 0
 56D:\projects\Namaste react\node_modules\@swc\core\LICENSE133424444560409888 0
 61D:\projects\Namaste react\node_modules\@swc\core\package.json133424444568907157 0
@@ -4840,6 +4841,7 @@
 98D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser133424444584092852 1
 66D:\projects\Namaste react\node_modules\@parcel\workers\lib\threads133424444574892784 1
 68D:\projects\Namaste react\node_modules\@parcel\workers\lib\Worker.js133424444575472767 0
+82D:\projects\Namaste react\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133424444574612782 0
 80D:\projects\Namaste react\node_modules\@parcel\core\test\fixtures\custom-targets133424444587232858 1
 83D:\projects\Namaste react\node_modules\@parcel\workers\lib\process\ProcessWorker.js133424444573692817 0
 77D:\projects\Namaste react\node_modules\@parcel\watcher-win32-x64\package.json133424444560679854 0
@@ -5457,7 +5459,6 @@
 113D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeStyleElement.js133424444578024944 0
 106D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133424444578094942 0
 120D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133424444578164971 0
-109D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133424444578244928 0
 121D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133424444578424937 0
 58D:\projects\Namaste react\node_modules\@parcel\events\test133424444569642923 1
 108D:\projects\Namaste react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeViewBox.js133424444578524945 0
@@ -5946,9 +5947,10 @@
 52D:\projects\Namaste react\node_modules\.bin\svgo.cmd133424444621953914 0
 52D:\projects\Namaste react\node_modules\.bin\svgo.ps1133424444621953914 0
 70D:\projects\Namaste react\node_modules\.bin\update-browserslist-db.cmd133424444622004209 0
+38D:\projects\Namaste react\img\logo.jpg133431342828332893 0
 48D:\projects\Namaste react\dist\index.2280ea5e.js133424455446765754 0
-53D:\projects\Namaste react\dist\index.3a01df49.css.map133424739308849315 0
-52D:\projects\Namaste react\dist\index.5baa4167.js.map133424739713862601 0
+53D:\projects\Namaste react\dist\index.3a01df49.css.map133432231305722602 0
+52D:\projects\Namaste react\dist\index.5baa4167.js.map133432231306705426 0
 48D:\projects\Namaste react\dist\index.7c0ccee6.js133424735006183020 0
-41D:\projects\Namaste react\dist\index.html133424739309219435 0
+41D:\projects\Namaste react\dist\index.html133432231305702447 0
 60D:\projects\Namaste react\dist\Namaste react.3464ddca.js.map133424735007246444 0
