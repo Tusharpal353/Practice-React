@@ -47,7 +47,7 @@ const Header = () => {
   );
 };
 
-const RestrauntCard = () => {
+const RestrauntCard = (props) => {
   return (
     <div className="res-card">
       <img
@@ -55,8 +55,8 @@ const RestrauntCard = () => {
         src="https://banner2.cleanpng.com/20180323/byq/kisspng-colonel-sanders-kfc-fried-chicken-logo-restaurant-fried-chicken-5ab4d4671d4b30.22577779152180029512.jpg"
         alt="kfc logo"
       />
-      <h3>Friend Dhaba</h3>
-      <h4>Strips, Peri-Peri, Bucket</h4>
+      <h3>{props.resName}</h3>
+      <h4>{props.cusine}</h4>
       <h4>4.4 rating</h4>
       <h4>45 min</h4>
     </div>
@@ -68,24 +68,12 @@ const Body = () => {
     <div className="body">
       <div className="search-bar">Search</div>
       <div className="res-container">
+        <RestrauntCard  resName="KFC" cusine="Bucket, Combo, Family Meal"/>
+        <RestrauntCard resName="KFC 2" cusine="Bucket, Combo, Family Meal"/> />
         <RestrauntCard />
         <RestrauntCard />
         <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
-        <RestrauntCard />
+     
       </div>
     </div>
   );
